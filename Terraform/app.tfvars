@@ -1,0 +1,5 @@
+    location            = "East US"
+	environment         = "dev"
+	description         = "Linux Docker container app"
+	app_name            = "Subodh-ecom"
+	app_port            = "8080"
